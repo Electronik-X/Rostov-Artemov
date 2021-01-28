@@ -1,7 +1,7 @@
 import pygame
 
-W, H = 9, 16
-TILE = 42
+W, H = 10, 20
+TILE = 34
 GAME_RES = W * TILE, H * TILE
 FPS = 60
 
